@@ -2,8 +2,8 @@
 
 Simple google image crawler using selenium
 
-Download chromedriver which fits in your chrome version in : https://chromedriver.chromium.org/downloads    
-Chrome version check -> type this in chrome broweser  : chrome://version
+Download chromedriver which fits in your chrome version in : [here](https://chromedriver.chromium.org/downloads)    
+Chrome version check -> type this in chrome browser  : chrome://version
 
 After downloading chromedriver, place chromedriver at your project folder.
 
